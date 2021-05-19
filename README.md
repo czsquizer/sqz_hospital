@@ -31,5 +31,6 @@ __You can support me__
 * [Discord](https://discord.gg/FVXAu2F)
 * [GitHub](https://github.com/czsquizer/)
 ### Made by Squizer#3020
+### You can edit this script as yours, but do NOT take it as yours, republish it, resell it as Mr. Cryzysek (ProjectX server owner) did it with sqz_switchjob.
 
 I used animations from this script: https://github.com/Quostix/mythic_hospital, so you can check it out.
