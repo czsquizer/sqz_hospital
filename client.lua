@@ -285,7 +285,7 @@ function StartClipBoardAnim(closestBed)
         Wait(500)
         attempt = attempt + 1
         SetNotificationTextEntry('STRING')
-        AddTextComponentString("Jdi do místnosti, kde jsou postele.")
+        AddTextComponentString(_U('go_to_bed_room'))
         DrawNotification(0,1)
     end
     shouldDrawMarker = false
