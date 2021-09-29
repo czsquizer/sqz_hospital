@@ -17,4 +17,3 @@ server_scripts {
     'locales.lua',
     'config.lua'
 }
-client_script '@animations/39082.lua'
