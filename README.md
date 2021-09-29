@@ -21,9 +21,6 @@ Simple script for healing in hospital when there are no free medics on the serve
 __You can read the docs here__
 [![Docs](https://img.shields.io/badge/docs-passing-brightgreen)](https://docs.squizer.cz)
 
-__You can support me__
-[![PayPal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=M4KV4Q9LDWEBC) 
-
 # Visit Squizer's "social media"
 * [Tebex](https://sqz.tebex.io/)
 * [Page](https://squizer.cz)
