@@ -17,3 +17,13 @@ Locales['cs'] = {
     ['has_paid'] = 'Zaplatil jsi doktorovi %s$',
     ['healed'] = 'Doktor tě vyléčil. Dej na sebe pozor.'
 }
+
+Locales['fr'] = {
+    ['all_beds_occupied'] = 'Tous les lits sont occupés',
+    ['doctor_healing'] = ' - le médecin est en train de vous soigner, patientez s\'il vous plaît\n [E] Annuler',
+    ['no_money'] = 'Vous n\'avez pas assez d\'argent pour vous faire soigner, désolé.',
+    ['drop_reason'] = 'Félicitations ! Vous avez maintenant trouvé et testé que la triche n\'est pas autorisée sur notre serveur !',
+    ['go_to_bed_room'] = 'Allez à l\'endroit où se trouvent les lits d\'hôpitaux.',
+    ['has_paid'] = 'Vous avez payé les soins : %s$',
+    ['healed'] = 'Vous avez été soigné. Prenez soin de vous !'
+}
