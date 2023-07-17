@@ -1,8 +1,3 @@
-# <center>Quality hosting with preconfigured and DDoS protected cheap FiveM servers. Use link: https://zap-hosting.com/sqzscripts or a code when processing your order: `squizer-8709`.</center>
-[<img src="https://zap-hosting.com/interface/download/images.php?type=affiliate&id=202971">](https://zap-hosting.com/sqzscripts)
-
----
-
 # SQZ_HOSPITAL SCRIPT
 
 Simple script for healing in hospital when there are no free medics on the server. You simply check in in the reception, then you take your free bed, wait until the doctor (Local NPC) makes all the operations, then if you have money you will get healed, if not, eh, unlucky.
