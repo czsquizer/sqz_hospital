@@ -2,6 +2,20 @@
 
 Simple script for healing in hospital when there are no free medics on the server. You simply check in in the reception, then you take your free bed, wait until the doctor (Local NPC) makes all the operations, then if you have money you will get healed, if not, eh, unlucky.
 
+<div align="center">
+
+# 🌐 **Host Smarter with Fusiora.com!** 🚀  
+
+<img src="https://fusiora.com/assets/img/branding/content/logo_white.svg" alt="Fusiora Logo" width="400">  
+
+🖥️ **Premium hardware** in **Netherlands**, **Miami**, & **Germany**.  
+🛡️ **DDoS protection** for **any game**.  
+💸 Use **`CODELY`** for **10% OFF**!  
+
+## 🔗 [**Start Hosting Now**](https://fusiora.com)  
+
+</div>
+
 # Features
 - Heal when there are no doctors on the server
 - Optimalization
